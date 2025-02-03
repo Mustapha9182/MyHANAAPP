@@ -2,7 +2,7 @@
 
 Welcome to your new project.
 
-It contains these folders and files, following our recommended project layout:updated.
+It contains these folders and files, following our recommended project layout:updated.ooo
 
 File or Folder | Purpose
 ---------|----------
